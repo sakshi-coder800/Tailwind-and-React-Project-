@@ -7,3 +7,26 @@ Choose framework and run command
               npm install -D tailwindcss postcss autoprefixer
               npx tailwindcss init -p
 
+
+
+Step 3:- complete tailwind.config.js configration and process
+
+
+
+Step 4:-   Open DaisyUI component
+https://daisyui.com/docs/install/
+       Run command : npm i -D daisyui@latest
+
+Add this line in ''tailwindcss.config.js ''
+                     plugins: [
+                     require('daisyui'),
+                     ],
+Step 4:- https://react-icons.github.io/react-icons/ 
+ download react icons and add icons
+                                   npm install react-icons --save
+
+Step 4:-
+
+Step 4:-
+
+Step 4:-
