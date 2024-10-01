@@ -2,3 +2,9 @@ Step 1:- npm create vite@latest TailwindProject
 
 
 
+Step 2:- https://tailwindcss.com/docs/installation/framework-guides
+Choose framework and run command
+       npm install -D tailwindcss postcss autoprefixer
+       npx tailwindcss init -p (Install Tailwind CSS)
+
+
